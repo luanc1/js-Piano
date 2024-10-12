@@ -1,1 +1,1 @@
-contruindo um piano com HTML,CSS, javascript.
+construindo um piano com HTML,CSS, javascript.
